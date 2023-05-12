@@ -1,4 +1,4 @@
-const backend = 'https://vnaranj-musical-waddle-7g77jjxw4qvcxx79-8585.preview.app.github.dev';
+const backend = 'https://victorv2022-turbo-dollop-9rr9x4xj97xh95wj-8585.preview.app.github.dev/';
 
 // div para poder meter el html dinámico
 const resultadosDiv = document.getElementById('resultados');
